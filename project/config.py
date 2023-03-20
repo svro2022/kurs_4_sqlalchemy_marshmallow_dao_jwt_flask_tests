@@ -40,7 +40,6 @@ class ProductionConfig(BaseConfig):
     DEBUG = False
 
 
-
 class ConfigFactory:
     flask_env = 'development'
 
